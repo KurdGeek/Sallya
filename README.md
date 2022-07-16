@@ -3,9 +3,9 @@ Be the person who keeps track of every birthdays and events! With this anniversa
 
 
 
-★ Reminder for every anniversary
-★ Your anniversary calendar created within seconds
-★ Import birthdays from Contacts
-★ Say Happy Birthday with a greeting card
-★ Write down gift ideas
-★ Showing days left to any anniversary with a short specificatioin
+★ Reminder for every anniversary                                                                                             
+★ Your anniversary calendar created within seconds                                                                                            
+★ Import birthdays from Contacts                                                                                            
+★ Say Happy Birthday with a greeting card                                                                                            
+★ Write down gift ideas                                                                                            
+★ Showing days left to any anniversary with a short specificatioin                                                                                            
